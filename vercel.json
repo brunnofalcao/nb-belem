@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://www.nutricaobrasil.com.br/belem",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "destination": "https://www.nutricaobrasil.com.br/belem",
+      "permanent": true
+    }
+  ]
+}
